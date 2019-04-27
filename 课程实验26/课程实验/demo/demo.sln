@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo", "demo.vcproj", "{4CC145D9-6B9C-46A9-93BD-4345831211D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "红黑树", "..\红黑树\红黑树.vcproj", "{FC083B7B-5F03-4CCE-A316-0EC693CD29E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC145D9-6B9C-46A9-93BD-4345831211D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CC145D9-6B9C-46A9-93BD-4345831211D8}.Debug|Win32.Build.0 = Debug|Win32
+		{4CC145D9-6B9C-46A9-93BD-4345831211D8}.Release|Win32.ActiveCfg = Release|Win32
+		{4CC145D9-6B9C-46A9-93BD-4345831211D8}.Release|Win32.Build.0 = Release|Win32
+		{FC083B7B-5F03-4CCE-A316-0EC693CD29E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC083B7B-5F03-4CCE-A316-0EC693CD29E7}.Debug|Win32.Build.0 = Debug|Win32
+		{FC083B7B-5F03-4CCE-A316-0EC693CD29E7}.Release|Win32.ActiveCfg = Release|Win32
+		{FC083B7B-5F03-4CCE-A316-0EC693CD29E7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HashMapDemo", "HashMapDemo.vcxproj", "{273AB00F-F73C-4C35-A03E-2A67EC76F645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273AB00F-F73C-4C35-A03E-2A67EC76F645}.Debug|Win32.ActiveCfg = Debug|Win32
+		{273AB00F-F73C-4C35-A03E-2A67EC76F645}.Debug|Win32.Build.0 = Debug|Win32
+		{273AB00F-F73C-4C35-A03E-2A67EC76F645}.Release|Win32.ActiveCfg = Release|Win32
+		{273AB00F-F73C-4C35-A03E-2A67EC76F645}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
